@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#high-score {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.container {
+  padding-top: 10%;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
