@@ -11,7 +11,9 @@
 
 
 ## Links to page & github
+![my quiz](./assets/images/readme-Img)
+ * [link to page](https://afebre1027.github.io/Code-Quiz/)
+ * [github repo](https://github.com/afebre1027/Code-Quiz)
 
-* https://afebre1027.github.io/Code-Quiz/ - link to page
-* https://github.com/afebre1027/Code-Quiz - github repo
-* ![website] (C:\Users\afebr\Desktop\code-quiz\assets\Screenshot 2021-11-28 210200.png)
+
+

@@ -2,12 +2,10 @@
   padding: 0;
   margin: 0;
 }
-#high-score {
-    padding-top: 10px;
-    padding-left: 10px;
-}
-.container {
+
+.home-container {
   padding-top: 10%;
+  display: flex;
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
@@ -16,4 +14,27 @@ form {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.start-info {
+  padding: 20px 20px 50px 20px;
+}
+.play-btn {
+  border: 3px solid green;
+  font-size:20px;
+  padding: 10px;
+  border-radius:5px;
+}
+.display {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px 10px 10px;
+  margin-bottom: 80px;
+}
+#end {
+  padding-top: 10%;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
